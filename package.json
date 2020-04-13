@@ -18,5 +18,18 @@
     "babel-preset-expo": "~8.1.0",
     "@babel/core": "^7.8.6"
   },
-  "private": true
+  "private": true,
+  "name": "todoapprn",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axdiaz/todoAppRN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axdiaz/todoAppRN/issues"
+  },
+  "homepage": "https://github.com/axdiaz/todoAppRN#readme",
+  "description": ""
 }
